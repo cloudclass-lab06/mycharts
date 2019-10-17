@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  eventapp-lab06:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-10-17T16:35:09.9899552+09:00
+    description: A Helm chart for Kubernetes
+    digest: 7be2ca261cf7d6e2938ec725a9b5823f5778f42fdc5016b403d5535aa55a5f33
+    name: eventapp-lab06
+    urls:
+    - https://cloudclass-lab06.github.io/mycharts/eventapp-lab06-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-10-17T16:35:09.988954+09:00
